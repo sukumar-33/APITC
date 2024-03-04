@@ -44,4 +44,4 @@ else
 echo json_encode(array('status'=> $status, 'msg'=>$output));
 
 header("Redirect: index.html");
-?>
+?> 
