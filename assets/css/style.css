@@ -25,7 +25,8 @@ Project:  Apprista
 
 :root {
     --e-global-color-primary: #150d45;
-    --e-global-color-secondary: #fe7b53;
+    /* --e-global-color-secondary: #fe7b53; */
+    --e-global-color-secondary: red;
     --e-global-color-text: #4f4975;
     --e-global-color-accent: #50e3ae;
     --e-global-color-white: #ffffff;
